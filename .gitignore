@@ -1,0 +1,5 @@
+__pycache__/
+*$py.class
+.idea/
+newfile.log
+market_maker/backtest/data/
